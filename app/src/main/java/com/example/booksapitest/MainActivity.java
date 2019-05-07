@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         presenter.initRetrofit();
         BookPojo bookPojo = presenter.sendBookResult();
         //Textview.setText(bookPojo.items[0].kind); or something like that. This specific one will crash.
+        //nothing
     }
 }
