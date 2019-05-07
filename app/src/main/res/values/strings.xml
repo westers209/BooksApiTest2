@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BooksApiTest</string>
+    <string name="til_search_for_book_name">Search for book name</string>
+    <string name="btn_txt_search">Search</string>
 </resources>
