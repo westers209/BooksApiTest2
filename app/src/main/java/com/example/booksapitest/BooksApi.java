@@ -12,4 +12,5 @@ public interface BooksApi {
     Call<BookPojo> getBooks(@Query("q") String bookName,
                             @Query("maxResults") String max,
                             @Query("printType") String type);
+
 }
